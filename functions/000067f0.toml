@@ -1,10 +1,8 @@
 [metadata]
 addr = 0x67f0
 size = 0x3c6
-last_change = 2023-07-06T15:23:51.772127Z
+last_change = 2023-07-06T15:23:52.426612Z
 
 [header]
-last_change = 2023-07-06T15:23:51.772127Z
-name = "fn_main"
+name = ""
 addr = 0x67f0
-type = "void"
