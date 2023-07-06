@@ -1,3 +1,10 @@
+[0x687e]
+last_change = 2023-07-06T15:18:53.351209Z
+addr = 0x687e
+func_addr = 0x67f0
+comment = "Q> What algorithm is this snippet implementing?\n"
+decompiled = true
+
 [0x68b3]
 last_change = 2023-07-06T15:17:38.867312Z
 addr = 0x68b3
