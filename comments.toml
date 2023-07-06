@@ -1,5 +1,6 @@
 [0x687e]
+last_change = 2023-07-06T19:02:16.731671Z
 addr = 0x687e
 func_addr = 0x67f0
-comment = "Q> what algorithm is this snippet implementing?\n\nA> The provided code snippet is implementing Luhn's algorithm, also known as the\n \"modulus 10\" or \"mod 10\" algorithm. It's a simple checksum formula used to vali\ndate a variety of identification numbers, most notably credit card numbers.\n"
+comment = "Q> what algorithm is this snippet implementing?\n"
 decompiled = true
