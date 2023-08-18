@@ -1,5 +1,5 @@
 user = "demo3"
 version = 0x0
-last_push_time = 2023-08-17T23:49:29.687494Z
-last_push_artifact = -1
-last_push_artifact_type = -1
+last_push_time = 2023-08-18T00:07:57.604256Z
+last_push_artifact = 0x6c30
+last_push_artifact_type = "function"
